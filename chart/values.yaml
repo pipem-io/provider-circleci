@@ -1,0 +1,6 @@
+image: docker.pipem.io/provider-circleci
+version: VERSION
+
+replicas: 1
+
+provider: circleci
